@@ -1,0 +1,14 @@
+{
+  "name": "annwuyn-plugins",
+  "owner": {
+    "name": "annwuyn"
+  },
+  "description": "annwuyn — academic writing skills",
+  "plugins": [
+    {
+      "name": "annwuyn",
+      "source": "./plugin",
+      "description": "Contrastive-rhetoric academic writing method for Vietnamese L1 writers — papers, essays, SOP/PS, LOR, CV, research proposals"
+    }
+  ]
+}

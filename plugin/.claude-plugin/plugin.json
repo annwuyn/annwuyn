@@ -1,0 +1,10 @@
+{
+  "name": "annwuyn",
+  "version": "1.0.0",
+  "description": "annwuyn — contrastive-rhetoric academic writing method. Linearity, thematic progression, cohesion, dependency, linking scope/distance/explicitness, engagement/appraisal, modality, qualification, economy of language, fallacies. Includes scholarship-application and research-paper modes.",
+  "author": {
+    "name": "annwuyn"
+  },
+  "license": "SEE LICENSE",
+  "keywords": ["academic-writing", "contrastive-rhetoric", "vietnamese", "scholarship", "sop", "research-paper"]
+}

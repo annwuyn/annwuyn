@@ -1,0 +1,9 @@
+Copyright (c) annwuyn. All rights reserved.
+
+This applies to the compilation: the skill structure, the staged pipeline, the diagnostic
+checklists and all prompt text in this plugin.
+
+It does NOT extend to the third-party linguistic frameworks, handouts and documents that the
+reference library draws on. Those remain the property of their respective authors and are
+credited in plugin/skills/annwuyn/references/SOURCES.md. Cite those works, not this plugin,
+in academic writing.
