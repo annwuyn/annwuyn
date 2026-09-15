@@ -48,6 +48,12 @@ Cognitive (semantic networks). Linking is viewed from all three.
 | 36–37 | Issue essays, fallacies, peer review | `09-argument-fallacies.md` |
 | 38 | Application package, interview, language use | scholarship skill |
 
+## Outside the curriculum
+
+| File | Source | Relation to the curriculum |
+|---|---|---|
+| `12-phrasebank.md` + `../scripts/phrasebank.py` | Morley, *Academic Phrasebank* (2015 enhanced PDF), the user's own copy | A phrase layer added after the fact. It realises moves the pipeline has already fixed and defers to the curriculum's files wherever they rule on the same point. |
+
 ## Key handouts (worth opening directly)
 
 | File | Location |

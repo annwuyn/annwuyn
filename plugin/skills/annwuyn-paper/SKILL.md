@@ -155,9 +155,25 @@ notes:
   before stating limitations.
 - **Abstract** — economy of language, hardest constraint, do it last.
 
-Phrase bank by section: `S31 materials/Academic vocabulary — Useful phrases for writing research papers.pdf` (Wallwork) — Abstract 1, 5 · Introduction 1–16 · Literature review 4, 9–16
-· Methods 17–30 · Results 29–40 · Discussion 35–45 · Conclusions 45–51 · Acknowledgements 52 ·
-cross-references 53–57.
+Phrase banks by section — two, used differently:
+
+| Section | Morley, *Academic Phrasebank* (tr.) — organised by **move** | Wallwork (phrase no.) — organised by **section** |
+|---|---|---|
+| Abstract | aims 17–19 · method 19–20 · findings 50 · significance 51–52 | 1, 5 (+2–4) |
+| Introduction | territory 7–8 · problem 9 · gap 11–17 · aim/RQ 17–19 · outline 21 | 1–16 |
+| Literature review | 22–31, esp. several-authors 23–24 and synthesis 29–30 | 4, 9–16 |
+| Methods | 32–37 | 17–30 |
+| Results | 38–42 | 29–40 |
+| Discussion | 43–48 | 35–45 |
+| Conclusions | 49–56 | 45–51 |
+| Cross-cutting | critical 58–64 · cautious 65–68 · causality 81–84 · transition 87–89 | cross-references 53–57 |
+
+Wallwork is in the course folder (`S31 materials/Academic vocabulary — Useful phrases for writing
+research papers.pdf`); Morley is read from the user's own copy via `scripts/phrasebank.py` in the
+`annwuyn` skill. Use Morley when you know the **move** you need (a gap, a concession, a tentative
+cause); use Wallwork when you know the **section** and want its conventions. Either way, apply
+`references/12-phrasebank.md` → *Choosing between candidate frames*, and never let a frame
+assert more than the sources do.
 
 ---
 
@@ -166,6 +182,8 @@ cross-references 53–57.
 1. **Establish the chain before the prose.** Section by section: sieve, consolidate, unpack
    gaps, re-order. Show the chain.
 2. **Draft**, applying `03`–`05` (cohesion, dependency, scope/distance/explicitness) as you go.
+   Name each paragraph's moves first; realise a weak or missing move from `12-phrasebank.md`
+   (move → function → frame → fit → trim).
 3. **Calibrate stance** with `06` and `07`.
 4. **Compress** with `08`. Report the word count.
 5. **Audit the argument** with `09` — surface every implicit warrant; check the fallacy list,

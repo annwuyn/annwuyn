@@ -1,6 +1,6 @@
 ---
 name: annwuyn
-description: Apply the annwuyn method to any English academic or application writing — research papers, essays, SOP/PS, LOR, CV, research proposals, IELTS/TOEFL/GRE essays. Use when writing, revising, diagnosing or critiquing such text, especially for a Vietnamese L1 writer, or when the user asks about linearity, thematic progression, cohesive devices, linking scope/distance, engagement/appraisal, modality, qualification, economy of language, or fallacies. Also triggers on Vietnamese requests such as "viết bài báo khoa học", "sửa bài luận", "viết SOP", "xin học bổng", "kiểm tra mạch văn", "tính tuyến tính".
+description: Apply the annwuyn method to any English academic or application writing — research papers, essays, SOP/PS, LOR, CV, research proposals, IELTS/TOEFL/GRE essays. Use when writing, revising, diagnosing or critiquing such text, especially for a Vietnamese L1 writer, or when the user asks about linearity, thematic progression, cohesive devices, linking scope/distance, engagement/appraisal, modality, qualification, economy of language, or fallacies. Also use when the user wants wording for a rhetorical move, or a text restricted to or checked against Morley's Academic Phrasebank (Manchester). Also triggers on Vietnamese requests such as "viết bài báo khoa học", "sửa bài luận", "viết SOP", "xin học bổng", "kiểm tra mạch văn", "tính tuyến tính", "chỉ dùng cấu trúc trong Academic Phrasebank", "khung câu học thuật".
 ---
 
 # annwuyn — academic writing method
@@ -33,6 +33,13 @@ Always work in this order. Later stages assume earlier ones are settled.
 | 9 | **Argument & fallacies** | Claim / ground / warrant / rebuttal / qualifier — all present? | `references/09-argument-fallacies.md` |
 | 10 | **Style & vocabulary** | Academic register, political correctness | `references/10-style-vocabulary.md` |
 
+**The phrase layer** — `references/12-phrasebank.md` + `scripts/phrasebank.py`. Morley's
+*Academic Phrasebank* is not a stage but a realisation resource: it supplies the wording for a
+move once stages 1–2 have fixed the move, is fitted under the rules of 3, 6, 7 and 10, and is
+paid for at 8. **Move → function → frame → fit → trim.** Modes: guided (default), strict
+(*only* Phrasebank structures), audit, teach. The frames are read from the user's own PDF at
+runtime; never quote a frame or cite a page you have not read from it.
+
 Plus `references/11-vn-transfer.md` — the 25-item Vietnamese L1 transfer checklist. **Run this
 whenever the writer is a Vietnamese L1 speaker**, which is the default assumption here.
 `references/source-index.md` maps every reference file back to its source session, and
@@ -47,6 +54,7 @@ whenever the writer is a Vietnamese L1 speaker**, which is the default assumptio
 | research paper · proposal · abstract · thesis section | `/annwuyn-paper` |
 | to understand or drill one concept | read the relevant reference file and teach from it |
 | a linking word checked | `references/linking-items.md` — always look it up, never guess |
+| wording for a move · a text built only from Academic Phrasebank frames · a check that it is | `references/12-phrasebank.md` — pick the mode there, then `scripts/phrasebank.py` (`show` / `search` / `audit`) |
 
 For a full research pipeline (literature search → draft → peer review → revision), the
 `academic-research-skills` plugin (`/ars-full`, `/ars-reviewer`) handles process. annwuyn handles
@@ -105,3 +113,6 @@ These references are built from the course's 132 PDFs and one DOCX. The **65 lec
 (~9.5 GB)** are not transcribed, and the slides are deliberately sparse — many carry only a
 heading plus *"→ watch sample clips"* or *"FOOD FOR THOUGHT"*. Where a point here is thinner
 than expected, the reasoning is probably in the audio. See `references/source-index.md`.
+
+`references/12-phrasebank.md` is the one file not drawn from the curriculum; it indexes an
+external resource and defers to the curriculum wherever the two disagree.

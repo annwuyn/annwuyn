@@ -236,6 +236,8 @@ in the proceedings) · a thesis or selected chapters · a research proposal · a
 research project report · a professional project report · a review of a published article or
 book. Normally expected of, if not required for, PhD applicants. Have an expert in the field
 look it through. Two papers can work — quantitative vs qualitative, or original vs review.
+A writing sample is research prose: the `annwuyn-paper` skill and the Phrasebank phrase layer
+(`references/12-phrasebank.md`) apply to it in full.
 
 ---
 
@@ -360,4 +362,10 @@ Question bank by topic: `S33`/`S38 materials/Interview — Sample questions.pdf`
   word limits are hard.
 - Preserve the writer's voice. A technically cleaner PS that no longer sounds like them is worse.
 - Run `references/11-vn-transfer.md` items 18–25 on every SOP and PS.
+- **Keep research-paper frames out of SOP, PS and LOR prose.** Morley's *Academic Phrasebank*
+  (`references/12-phrasebank.md`) is built for papers and dissertations: its impersonal and
+  cautious frames (tr. 65–68) turn achievements into hedges (VN-transfer items 15, 21), and its
+  *personal interest* frames (tr. 20) produce the passive-recipient orientation of item 19. Use
+  it only for the research-plan paragraph of an SOP — aims, gap, method (tr. 11–20) — and even
+  there keep the writer as the active agent.
 - Explanations in the user's language; the document itself in English.

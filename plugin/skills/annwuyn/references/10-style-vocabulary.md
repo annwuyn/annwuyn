@@ -89,7 +89,9 @@ Vocabulary profile check: `lextutor.ca/vp/eng/`.
   reads as padding.
 - **Don't rely on templates.** *Many studies demonstrate | prove | report | point out | suggest |
   claim | conclude that…* — each of these is a different Engagement move (see
-  `06-engagement.md`); template overreliance flattens them into noise.
+  `06-engagement.md`); template overreliance flattens them into noise. The same holds for
+  phrasebank frames: `12-phrasebank.md` → *Choosing between candidate frames* is the antidote
+  (Theme fit, Engagement fit, force fit, economy, variety, genre).
 - **Check factual labels.** *Vietnamese Animal Association* → *Animal **Protection**
   Association*; *sign language* → *body language*; *marketing **tragedies*** → *strategies*.
 - **Check the term against the culture you invoke.** *While Americans eat a lot of beef, Indian
@@ -106,6 +108,10 @@ These are third-party documents; consult them in place rather than reproducing t
   Acknowledgements 52 · cross-references 53–57. Its own advice: where two phrases really are
   synonymous, choose the shortest.
 - `S31 materials/Academic vocabulary — Baron GRE wordlist.pdf` — GRE vocabulary.
+- John Morley, *Academic Phrasebank* (2015 enhanced PDF, the user's own copy) — not a course
+  handout; indexed by move in `12-phrasebank.md` and read at runtime by `scripts/phrasebank.py`.
+  Its everyday → academic word table (tr. 93) agrees with the pairs above; where it does not
+  list a pair, this file is the authority.
 - `S38 materials/Language use — Sample list of action verbs.pdf` — Boston
   College Career Center action verbs, grouped by Management / Communication / Clerical /
   Research / Technical / Teaching / Financial / Creative / Helping skills. Use for CV bullets.

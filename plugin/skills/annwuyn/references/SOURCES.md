@@ -17,6 +17,7 @@ library, in academic work.
 | Appraisal theory — Attitude / Engagement / Graduation; monogloss–heterogloss; expand–contract | J. R. Martin & P. R. R. White, *The Language of Evaluation* (2005). Simplified for practical application by the source curriculum | `06-engagement.md` |
 | Force-based account of modality | Andrea Tyler and colleagues, cognitive-linguistic modality research; extended by the source curriculum | `07-modality-qualification.md` |
 | Argument structure — claim / ground / warrant / backing / rebuttal / qualifier | Stephen Toulmin, *The Uses of Argument* (1958) | `09-argument-fallacies.md` |
+| Move analysis — rhetorical moves in research-article sections | John Swales, *Genre Analysis: English in Academic and Research Settings* (1990); the organising principle of Morley's *Academic Phrasebank* | `12-phrasebank.md` |
 | Reference accessibility; definite-article accessibility | Mira Ariel, accessibility theory; Gilles Fauconnier, mental spaces; via Richard Epstein, *The Definite Article, Accessibility, and the Construction of Discourse Referents* | `02-thematic-progression.md` |
 
 ## Tables and documents reproduced or closely followed
@@ -37,6 +38,8 @@ library, in academic work.
 | Action-verb list | Boston College Career Center, after the Employment Development Department, Palo Alto CA |
 | *Useful Phrases* phrase bank (referenced, not reproduced) | Adrian Wallwork, *English for Writing Research Papers* (Springer) |
 | Baron GRE wordlist (referenced, not reproduced) | Barron's |
+| *Academic Phrasebank*, 2015 enhanced edition (referenced, not reproduced — indexed by section and printed page in `12-phrasebank.md`; frames read at runtime from the user's own copy) | John Morley, © The University of Manchester |
+| Acceptability criteria for reused academic phrases, as summarised in the *Academic Phrasebank* | M. Davis & J. Morley (2015), 'Phrasal intertextuality', *Journal of Second Language Writing* |
 | Guidance on examples and scoring | ETS, *GRE Official Guide* (quoted briefly) |
 | Curriculum Vitae tips and samples | University of Illinois Graduate College, Career Development |
 | *Top 10 mistakes in personal statements* | eurogates.nl |

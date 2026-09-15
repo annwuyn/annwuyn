@@ -7,10 +7,28 @@ between Vietnamese-English and native academic English.
 
 | Skill | Use for |
 |---|---|
-| `annwuyn` | the method + a 14-file reference library; routes to the modes below |
+| `annwuyn` | the method + a 15-file reference library, incl. the Academic Phrasebank phrase layer; routes to the modes below |
 | `annwuyn-review` | diagnose and revise a draft, stage by stage |
 | `annwuyn-scholarship` | SOP · PS · CV · LOR · application package · professor contact · interview |
 | `annwuyn-paper` | research paper · proposal · abstract · literature review |
+
+## Academic Phrasebank (optional, bring your own copy)
+
+The phrase layer (`references/12-phrasebank.md`) indexes John Morley's *Academic Phrasebank*
+(2015 enhanced PDF, © The University of Manchester) by rhetorical move and printed page. The
+plugin does **not** contain the Phrasebank; point it at your own copy once:
+
+```
+python3 plugin/skills/annwuyn/scripts/phrasebank.py setup /path/to/Academic-Phrasebank.pdf
+```
+
+The text is cached at `~/.annwuyn/phrasebank/` (override with `ANNWUYN_HOME`), outside this
+repo. Requires `pdftotext` (`brew install poppler`) or `pip install pypdf`. Setup also finds a
+copy in `~/Downloads`, `~/Documents` or `~/Desktop`, or reads `ANNWUYN_PHRASEBANK_PDF`. In a
+cloud session, attach the PDF and run `setup` on the uploaded path. Without a copy the skills
+still work; they just will not quote frames or cite Phrasebank pages.
+
+Commands: `setup` · `status` · `show 16-17` · `search "REGEX"` · `audit draft.docx`.
 
 ## Install — desktop / CLI
 

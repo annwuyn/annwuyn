@@ -1,6 +1,6 @@
 ---
 name: annwuyn-review
-description: Diagnose and revise a piece of English academic or application writing using the annwuyn method — a staged pass over linearity, thematic progression, cohesion, dependency, linking scope/distance/explicitness, engagement, qualification and economy of language. Use when the user asks to review, critique, edit, tighten, or "fix the flow" of a draft, paragraph, essay, SOP, abstract or paper section, or asks why their English "sounds off" despite being grammatical. Also triggers on Vietnamese requests such as "sửa bài", "nhận xét bài viết", "đọc giúp em", "bài viết có mạch không", "rút gọn", "chữa bài luận".
+description: Diagnose and revise a piece of English academic or application writing using the annwuyn method — a staged pass over linearity, thematic progression, cohesion, dependency, linking scope/distance/explicitness, engagement, qualification and economy of language, with Morley's Academic Phrasebank as the phrase layer. Use when the user asks to review, critique, edit, tighten, or "fix the flow" of a draft, paragraph, essay, SOP, abstract or paper section, asks why their English "sounds off" despite being grammatical, or requires a revision that uses only Academic Phrasebank structures. Also triggers on Vietnamese requests such as "sửa bài", "nhận xét bài viết", "đọc giúp em", "bài viết có mạch không", "rút gọn", "chữa bài luận".
 ---
 
 # annwuyn review — diagnose, then revise
@@ -78,6 +78,14 @@ rationale is not an example.
 Academic register, near-synonym choices, overused *be/have/get/do/thing*, political correctness,
 factual labels.
 
+### Phrase layer (`12-phrasebank.md`) — inside stages 3, 6, 7, 10, never before stage 2
+When the defect is a **missing or mis-signalled move** — no gap statement, a contested claim
+reported with an endorsing verb, a literature review of one-study-per-sentence N transitions, a
+bare causal verb over correlational data — the fix may be a Phrasebank frame. Read the section
+from the user's copy (`scripts/phrasebank.py show <tr.>`), pick by Theme fit → Engagement fit →
+force fit → length, and cite the section and page in *What changed and why*. Then let stage 8
+charge for it.
+
 ## Output
 
 ```markdown
@@ -109,6 +117,23 @@ Problems: …
 Include the stages that found something. Silently skipping a clean stage is fine; say
 "nothing to flag" if the user asked for a full pass.
 
+## Phrasebank-constrained revision
+
+When the user or the assignment requires *only* Academic Phrasebank structures and vocabulary
+(*"chỉ dùng cấu trúc và từ vựng trong academic phrasebank"*), switch to **strict mode** in
+`12-phrasebank.md`:
+
+1. Read the full text, then fix the chain (stages 1–2) without adding content.
+2. Rebuild each sentence on a licence — a frame or a grammar/style note, with its page —
+   filling the slots with the writer's own content, numbers and citations only.
+3. Run the frame-proposition check: reject any frame that asserts more than the sources do.
+4. Deliver the revised text (same format as the input), the frame log, the `audit` output and
+   the costs (word count, nuance shifts). If a word limit applies, compress inside the frames —
+   choose shorter frames — rather than deleting licences.
+
+Strict mode does not suspend the other rules: never invent content, preserve voice, name
+defects. If the user only wants to know whether a text already complies, run **audit mode**.
+
 ## Peer-review mode
 
 If the user wants a peer-review form rather than an edit (course format, `S36 materials/Peer Review form.docx`), use its three categories and its instruction to be *honest, concise and
@@ -124,6 +149,9 @@ miserable*:
 Then: **what do you like best about this piece?** and any additional comments.
 Try to recover the meaning the author intended; pay particular attention to the parts you have
 trouble making sense of, and ask for clarification rather than assuming.
+For the *Suggestions* column, the constructive-suggestion frames in the Phrasebank's *Being
+critical* section (tr. 62–63) give the reviewer a counterfactual, non-pronouncing way to phrase
+advice.
 
 ## Rules
 
