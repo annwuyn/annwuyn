@@ -60,7 +60,7 @@ Heterogloss
 | **Concur: Affirmative** | of course, obviously, no wonder; naturally, unsurprisingly; everyone knows that |
 | **Concur: Leading Q** | *Who doesn't want a million dollars?* |
 | **Concur: Concede** | admittedly, arguably, certainly; understandably, justifiably; granted, yes; at least, just, at first, except for |
-| **Endorse** | demonstrate, prove, show, point out; rule, conclude, know, agree (factivity verbs) |
+| **Endorse** | demonstrate, prove, show, point out, find; rule, know, agree (factivity verbs); *conclude* only when the writer accepts the conclusion |
 | **Pronounce** | I'd say / I contend / I insist that; it is clear/obvious to me that; you must agree; the fact/truth of the matter is; there can be no doubt that; intensifiers with clausal scope — really, indeed, in fact, simply |
 
 Boundary cases worth memorising:
@@ -134,8 +134,13 @@ Softening over-strong Pronounce:
   the so-called Vietnamese aggressive tendencies*
 - *a statement that **would be considered** illogical* → *a statement that **seems illogical to
   me***
-- **assumption** [N, made without proof → ATTRIBUTE] vs **supposition** [F, testable and
-  provable → ENDORSE]
+- **assumption** [N, made without proof → ATTRIBUTE]. The course paired it with **supposition** [F] as
+  ENDORSE, but learner dictionaries define *supposition* as an idea believed true without proof;
+  for a testable claim write *hypothesis*, for an endorsed one *finding* or *evidence*
+  (`14-lecture-notes.md` §15).
+
+Lecture worked examples, intensifier evidence and the reporting-verb drills:
+`14-lecture-notes.md` §14.
 
 ## Analysis output format
 

@@ -7,10 +7,21 @@ between Vietnamese-English and native academic English.
 
 | Skill | Use for |
 |---|---|
-| `annwuyn` | the method + a 15-file reference library, incl. the Academic Phrasebank phrase layer; routes to the modes below |
+| `annwuyn` | the method + a 17-file reference library, incl. lecture notes, a research update and the Academic Phrasebank phrase layer; routes to the modes below |
 | `annwuyn-review` | diagnose and revise a draft, stage by stage |
 | `annwuyn-scholarship` | SOP · PS · CV · LOR · application package · professor contact · interview |
 | `annwuyn-paper` | research paper · proposal · abstract · literature review |
+
+## What’s new in 1.2.0
+
+- `references/14-lecture-notes.md`: what the course’s 38 lecture recordings and 7 recorded live
+  application reviews add to the frameworks (reasoning, worked answers, diagnostic tests), with
+  a section on where the library departs from the lectures.
+- `references/13-research-update.md`: current research, style manuals, reporting guidelines and
+  test formats, mapped stage by stage.
+- Corrections and additions across the engagement, modality, argument and L1-transfer files and
+  the review, scholarship and paper skills (accurate credential translations, referee letters
+  written in the referee’s own voice, essay sets built as one thread, research-methods notes).
 
 ## Academic Phrasebank (optional, bring your own copy)
 

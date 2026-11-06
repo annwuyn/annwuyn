@@ -77,7 +77,10 @@ Then choose the form:
 > frequency of Rheme-Theme patterns?*
 > Quantitative — *…do American expert writers use Rheme-Theme patterns **WITH GREATER
 > FREQUENCY** than Vietnamese writers?*
-A quantitative question must have a **hypothesis in advance**.
+An inferential quantitative question states its **hypothesis in advance**; this is the course’s
+working test for “quantitative”. Descriptive quantitative questions (how many, what proportion)
+need no hypothesis, and qualitative research is defined by its aim of understanding meaning and
+process (`references/14-lecture-notes.md` §13).
 
 Hypotheses come in four forms: literary null · **operational null** (generally preferred) ·
 literary alternative · operational alternative. Use the null when theory suggests no
@@ -100,7 +103,9 @@ answer **every** question or test **every** hypothesis.
 Sampling turns on **representativeness**: how representative is the sample of the survey
 population, and the survey population of the target population? A convenience sample needs an
 explicit rationale and stated limitations. Outline sample characteristics; detail informed
-consent, anonymity and confidentiality.
+consent, anonymity and confidentiality. Justify the sample size: a power analysis or precision
+target for quantitative designs, saturation or information power for qualitative ones. Copying
+the proportion another study sampled is no justification.
 
 Instrumentation: if previously used, cite reliability and validity findings; if not, outline how
 you will develop and test them — a pilot study is nearly essential. Append the instrument.
@@ -108,7 +113,11 @@ you will develop and test them — a pilot study is nearly essential. Append the
 Analysis procedures: the coding system · interrater reliability (simple % agreement, Cohen's
 Kappa) · statistics — test for normality (Kolmogorov-Smirnov), then parametric (t-test, ANOVA,
 MANOVA, Pearson's) for normal data, non-parametric (Kruskal-Wallis, Spearman's Rank) otherwise.
-Name your tools. Give a rationale for the design, methodology and analyses chosen.
+Name your tools. Give a rationale for the design, methodology and analyses chosen. Check model
+assumptions with plots as well as tests: with large samples, normality tests flag trivial
+departures, and with small ones they miss real ones. Report effect sizes with confidence
+intervals (`references/13-research-update.md` §5). The lectures’ worked cases on confounders,
+control groups, double-blind grading, coding and double data entry: `14` §13.
 
 ### Limitations and delimitations
 **Limitations** — weaknesses in instruments, sampling and analysis; threats to internal validity
@@ -176,6 +185,28 @@ cause); use Wallwork when you know the **section** and want its conventions. Eit
 assert more than the sources do.
 
 ---
+
+## Current practice the course predates
+
+Details and sources: `references/13-research-update.md` §5, §8 and §9.
+
+- **Introductions** follow Swales’s moves: establish the territory, establish the niche, present
+  the work. Prefer a gap that matters to the reader, and consider problematization (challenging
+  an assumption in the literature), which tends to yield more interesting questions than
+  gap-spotting.
+- **Questions:** run FINER on every question; PICOT for intervention studies; SPIDER for
+  qualitative and mixed-methods review questions. They complement the course’s *specific and
+  operationalizable* rule.
+- **Reporting:** follow the EQUATOR guideline for the design (APA JARS, CONSORT 2025, SPIRIT
+  2025, PRISMA 2020, RTARG) and the target journal’s open-science requirements (preregistration,
+  data availability, CRediT roles).
+- **Evidence language:** a *p*-value says nothing about the size or importance of an effect;
+  report effect sizes with confidence intervals. Keep causal wording and recommendations at the strength of the design,
+  and check every abstract conclusion against the primary outcome (spin).
+- **AI disclosure:** when annwuyn edits a manuscript, remind the user once of the journal’s rule;
+  under ICMJE and COPE guidance AI cannot be an author, and its use is disclosed.
+- **Reasoning drills from the lectures** (variables, confounders, control groups, the “so what?”
+  test for questions, narrowing with stated reasons): `references/14-lecture-notes.md` §13.
 
 ## Working procedure
 

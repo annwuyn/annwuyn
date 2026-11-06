@@ -17,6 +17,11 @@ English expository prose is **dominantly linear**: topic statement → subdivisi
 supported by example → related to the whole, to prove or argue something (or the inductive
 reverse). *Maturity of style in English is gauged by degree of subordination rather than
 coordination.*
+Two updates from later research (`13-research-update.md` §0 and §3): corpus studies locate the
+complexity of research prose mainly in compressed noun phrases, and
+the field now speaks of *intercultural* rhetoric: the patterns below are tendencies to test in
+each draft, tied to genre and training; the draft decides whether they apply. The course
+says the same of Kaplan: every culture shows every pattern; only the frequencies differ.
 
 Vietnamese argumentative prose, by the Vietnamese critics' own account: writers rarely go
 straight to the point, rarely divide thought into distinct points, rarely arrange those points
@@ -87,6 +92,27 @@ ambiguity and indirectness — *vừa viết vừa lách*.
     → *focus on processes, adding personal interpretations and self-criticism*:
     problem identification → challenges → specific solutions → results (in perspective) →
     implications & lessons learned.
+
+## Further items from the lecture recordings (`14-lecture-notes.md`)
+
+26. **Connectors chosen for rhythm or by translation.** *Tuy nhiên* placed where nothing contrasts
+    becomes a senseless *However*; *thay vì* hides three relations (contrast, exclusion,
+    alternative); *cho nên* turns a paraphrase into a false cause. (S1, S11)
+27. **One relation marked twice.** *Though…, but…* copies *tuy… nhưng*; English marks a relation
+    once. (S1)
+28. **Modal choice by translation.** *Có thể* → *can* (Vietnamese writers’ CAN:COULD ratio far
+    exceeds American writers’), *sẽ* → *will* for every prediction, *nên* → *should* (see 14). (S1)
+29. **Context before the point.** Long scene-setting (*I am a reader from Vietnam. I have read your
+    article…*) before the main idea; compress it to a line or a modifier. (S16, S29)
+30. **Literal proverbs and hidden ideas.** Sayings translated word for word and links that run
+    through an unstated idea between two sentences. (S7, S24)
+31. **Endings that open.** A conclusion that adds a fresh reflective thought (the school-essay
+    “open ending”) or a closing pledge in an application. English conclusions add nothing new.
+    (S29, S35)
+32. **Harsh monogloss under provocation.** Replies to an offensive article slide into pronounce
+    and flat assertions; concede what is true, then answer. (S34, S35)
+33. **Modesty through *I think*.** *I think* where the writer knows; *I know* states knowledge.
+    (S14)
 
 ## The remedies, in order
 

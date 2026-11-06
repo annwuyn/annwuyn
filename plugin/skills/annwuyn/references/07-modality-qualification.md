@@ -41,6 +41,12 @@ Two parallel worlds, same force structure:
 | **CAN** | actual ability | **the only English modal with no logical extension** — *That CAN be Tom* ✗ (only *can't* survives, as physical impossibility) | CAN vs COULD = ability vs possibility |
 | **MAY / MIGHT** | no actual force imposed, barriers removed → freedom to move → permission | *That MAY/MIGHT be Tom* — no evidence preventing the prediction, none compelling it → **weakest prediction** | |
 
+**Two refinements from standard grammars** (`14-lecture-notes.md` §10). Quirk et al. (1985),
+Biber et al. (1999) and Huddleston & Pullum (2002) class *That can’t be Tom* and *She can’t have
+seen it* as epistemic: logical impossibility, the negative counterpart of MUST. In research prose
+write *cannot* for a logical exclusion. Corpus studies report that deontic MUST has declined in
+British and American English while HAVE TO and NEED TO rose (Leech et al., 2009).
+
 **The SHOULD trap.** Vietnamese writers use SHOULD instead of MUST to sound less assertive and
 more polite. Because SHOULD carries a moral dimension, the unintended effect is that they sound
 like they are **lecturing**. Check every SHOULD in a proposal or recommendation.

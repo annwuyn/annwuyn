@@ -47,12 +47,14 @@ Cognitive (semantic networks). Linking is viewed from all three.
 | 34–35 | Appraisal, Engagement, argument structure, rebuttal | `06-engagement.md`, `09-argument-fallacies.md` |
 | 36–37 | Issue essays, fallacies, peer review | `09-argument-fallacies.md` |
 | 38 | Application package, interview, language use | scholarship skill |
+| 1–38, live reviews 1–7 | What the recordings add: reasoning, worked answers, tests, corrections | `14-lecture-notes.md` |
 
 ## Outside the curriculum
 
 | File | Source | Relation to the curriculum |
 |---|---|---|
 | `12-phrasebank.md` + `../scripts/phrasebank.py` | Morley, *Academic Phrasebank* (2015 enhanced PDF), the user's own copy | A phrase layer added after the fact. It realises moves the pipeline has already fixed and defers to the curriculum's files wherever they rule on the same point. |
+| `13-research-update.md` | Published research, style manuals and test-maker pages, checked November 2026 | Updates and refines course rules stage by stage; names the rule and the source each time. |
 
 ## Key handouts (worth opening directly)
 
@@ -116,17 +118,19 @@ response-writing target, S9 onward) · Text A / Text B "bad luck" essay pair (S2
 the Uyên Linh paragraph (S1, S9) · *Học để làm giàu tri thức* (S7) · the kids-and-extra-classes
 paragraph (S2–S6).
 
-## Lecture audio — not processed
+## Lecture audio: transcribed and distilled
 
-Each session folder also contains lecture recordings: **65 MP3 files, ~9.5 GB total**, usually
-two per session ("from recorder" and "from camera output"). They are **not** transcribed and are
-not reflected in these references — this library is built from the 132 PDFs and one DOCX only.
+Each session folder holds the lecture recordings (65 MP3 files: 38 from the recorder and 27
+duplicate camera outputs of the same lectures). The 38 recorder files and the 7 recorded live
+application reviews (`S38 materials/Live review of application samples/`) were transcribed in
+November 2026 with Whisper large-v3-turbo (Vietnamese, with a course-term prompt), then cleaned:
+recognition loops and the model’s stock video-outro phrases were removed, long unrecognised
+stretches (mostly film clips and breaks) are marked `[…] (khoảng N phút không nhận dạng được)`,
+and misheard course terms were restored (*linking*, *fallacy*, *Toulmin*, *monogloss*,
+*heterogloss*, *rebuttal*).
 
-The slides are deliberately sparse: many carry only a heading plus *"→ watch sample clips"*,
-*"FOOD FOR THOUGHT"*, or an unlabelled diagram. The reasoning behind those slides lives only in
-the audio. Expect gaps in: worked answers demonstrated verbally, the sample-clip analyses, most
-"Food for thought" prompts, and the S38 live application review.
-
-To close the gap, transcribe locally (no transcription tool is currently installed on this
-machine) — e.g. `whisper.cpp` or MacWhisper with a Vietnamese/English multilingual model — then
-add per-session transcript notes alongside these files.
+Transcripts sit beside the audio as `THIEU - Session <n> - Lecture transcript.srt` (timed) and
+`.md` (paragraphs with timestamps). Every transcript was read in full; `14-lecture-notes.md`
+distils what the recordings add to these files, with session tags such as (S24) for checking a
+point against the transcript. Speech recognition still errs on names, English quotations inside
+Vietnamese speech and film dialogue, so quote a transcript only after listening to the passage.

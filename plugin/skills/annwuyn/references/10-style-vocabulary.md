@@ -71,7 +71,7 @@ Vocabulary profile check: `lextutor.ca/vp/eng/`.
 | Blunt | PC |
 |---|---|
 | a boring teacher | an **uninspiring** teacher |
-| poor countries like Vietnam | **developing** countries |
+| poor countries like Vietnam | **lower-middle-income** countries such as Vietnam (the World Bank group; *developing* is the course’s 2010s choice, now judged inaccurate, see `13` §10) |
 | poor and dirty people | **underprivileged \| disadvantaged** people |
 | a country well-known for its **repulsive** cuisine | …for its **unique** cuisine |
 | An example of **disgusting** dishes | An example of dishes **not to everyone's liking** |
@@ -81,7 +81,7 @@ Vocabulary profile check: `lextutor.ca/vp/eng/`.
 - *These apps are not good enough* → *These apps are **mediocre at best***
 - *How good is your English? Not so good* → ***I'm working on it.*** (interview tip)
 - *He hesitates to talk to ugly women* → *He is **reluctant** to talk to **less attractive**
-  females*
+  women*
 
 ## Style traps
 

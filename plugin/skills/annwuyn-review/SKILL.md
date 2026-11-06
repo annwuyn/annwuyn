@@ -7,6 +7,9 @@ description: Diagnose and revise a piece of English academic or application writ
 
 Load the `annwuyn` skill first, then its reference files (`references/NN-*.md`) as you need them.
 Read the full text first. Do not start editing at sentence 1.
+For every stage, `references/14-lecture-notes.md` holds the course’s diagnostic tests and
+worked answers, and `references/13-research-update.md` the current research (section map in the
+`annwuyn` skill).
 
 ## Scope check
 
@@ -46,6 +49,9 @@ referent shift. Propose RT bridges where a Theme is not recoverable.
 For each linking item: what relation actually holds between the two parts? Look the item up —
 **never** rely on memory for role or relation. Check the misuse checklist, especially
 `on the contrary`/`in contrast`, same-set violations, over-linking, and long-distance linking.
+Where several items fit, prefer the narrowest. Flag a relation marked twice (*Though…, but…*),
+a sentence-initial *However* that really contrasts two parts of its own sentence, and paraphrase
+posing as cause (the one-to-one test, `14` §5).
 
 ### 4. Dependency (`04-dependency.md`)
 Does the grammatical ranking match the argumentative ranking? Check comma rules, restrictive vs
@@ -59,11 +65,16 @@ need unpacking or background supplied.
 ### 6. Engagement (`06-engagement.md`)
 Tag the stance resources. Report against the five targets: hetero:mono ↑, postulation:opinion ↑,
 specific-source:common-wisdom ↑, pronounce ↓, narrative & rhetorical questions ↑. Add
-pre-counterargument concessions where the writer bulldozes an objection.
+pre-counterargument concessions where the writer bulldozes an objection. Check each reporting
+verb for what it signals (*show, demonstrate, point out* endorse; *suggest, claim* attribute), and
+flag intensifiers (*really, totally, absolutely, strongly*) that weaken the claim they decorate
+(`14` §14).
 
 ### 7. Modality & qualification (`07-modality-qualification.md`)
 Every unqualified claim reads as absolute. Check each modal against the force-based account —
 particularly SHOULD (lecturing tone) and COULD/WOULD in claims. Flag over-qualification too.
+Decide social or logical before choosing; *cannot* for a logical exclusion (`14` §10). Leave facts
+unhedged; qualify inferences and rationales.
 
 ### 8. Economy (`08-economy.md`)
 Redundancy · default value · NP · affix · concise term · formal lexis · idiom · sentence
@@ -72,11 +83,14 @@ complexity. Report the word count before and after; a 25–50 % cut is normal.
 ### 9. Argument (`09-argument-fallacies.md`) — if argumentative
 Claim / ground / warrant / rebuttal / qualifier. Surface implicit warrants. Check the fallacy
 list. Check manner of exemplification: few elaborated examples beat many bare ones, and a
-rationale is not an example.
+rationale is not an example. Name each fallacy by explaining the faulty step in plain words, and
+hold causal wording to the strength of the design (`13` §5).
 
 ### 10. Style (`10-style-vocabulary.md`)
 Academic register, near-synonym choices, overused *be/have/get/do/thing*, political correctness,
-factual labels.
+factual labels. Replace words that now read as machine-processed in academic prose (*delves,
+underscores, showcasing*, and stacks of *crucial, comprehensive, notably, insights*) with the
+plain word (`13` §7).
 
 ### Phrase layer (`12-phrasebank.md`) — inside stages 3, 6, 7, 10, never before stage 2
 When the defect is a **missing or mis-signalled move** — no gap statement, a contested claim
@@ -147,7 +161,8 @@ miserable*:
 | Other linking issues | | |
 
 Then: **what do you like best about this piece?** and any additional comments.
-Try to recover the meaning the author intended; pay particular attention to the parts you have
+Whatever the reviewer cannot follow is the writer’s responsibility to fix, so report every point
+where you stopped. Try to recover the meaning the author intended; pay particular attention to the parts you have
 trouble making sense of, and ask for clarification rather than assuming.
 For the *Suggestions* column, the constructive-suggestion frames in the Phrasebank's *Being
 critical* section (tr. 62–63) give the reviewer a counterfactual, non-pronouncing way to phrase

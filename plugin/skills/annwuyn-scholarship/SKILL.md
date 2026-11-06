@@ -11,6 +11,10 @@ every document here, and `references/11-vn-transfer.md` items 18–25 are specif
 **Order matters:** self-assessment → CV → SOP → LOR → writing sample → package → professor
 contact → interview. Each stage feeds the next. Do not draft an SOP before the CV exists.
 
+The lectures and seven recorded live application reviews add worked cases to every section
+below: `references/14-lecture-notes.md` §12 (and §15 for advice from class that this skill
+replaces).
+
 Even for someone with no concrete plans yet, this process is worth running: taking stock of a
 life and career, planning ahead, learning to present oneself, developing motivation for further
 study, and supporting family and peers.
@@ -47,6 +51,10 @@ dependency. *Seeking a professor position in a well-known university* → *an ac
 position (tenure track) in an accredited tertiary institution*. Specify size / nationality /
 industry. Focus on the destination, not the passion narrative: *Seeking a Master's degree in
 Public Relations (with financial aid)*, *…with a planned continuation to Ph.D.*
+
+**Direction test.** A reader who skips the Objectives line should still infer the goal from the
+degrees, roles and activities. Describe each role through the work that matches the goal, at its
+true scale, and leave out gender, date of birth and marital status.
 
 **Research interests** — 3–6 keywords, or a summary of the proposed research. Not *Software
 engineering* (too broad), not *Applied GIS in Forest Resources and Management* (too narrow).
@@ -136,6 +144,17 @@ background adds to their diversity).
 
 **Damage control** — justify low scores and GPA, career changes and setbacks, no-activity gaps.
 
+### Essay sets and short prompts
+
+Many schemes split the statement into several short essays (150 to 500 words each). Treat the
+set as one web: give each essay one component of a single thread, let the essays hand off to
+each other, and cross-refer (*as I describe in my career-plan essay*) to save words. Open prompts
+(*What makes you feel alive?*) can carry the story that proves the rest. The most common failure
+is answering every prompt precisely while the set never forms one thread. Each scheme’s own
+letter must stand alone: readers of the scholarship essay may never open the one written for the
+university. For why-this-country, name a problem the host country met and solved, or a specific
+institution, professor or practice; for development schemes, say how you will apply it at home.
+
 ### SOP vs PS
 
 A **PS** is a memorable personal story — compelling, heart-felt, engaging, giving a glimpse of
@@ -219,7 +238,8 @@ or the home education system.
 
 **Other points:** most important elements first · language errors are acceptable and expected,
 provided they do not interfere with meaning · **diversity** of content, vocabulary, style and
-form of address across the three references (translation helps) · a personal tone, using
+form of address across the three references, which comes naturally when each referee writes from
+his or her own knowledge · a personal tone, using
 interpersonal Themes sparingly and adding personal reflection, to show the reference cares ·
 audience awareness — check that a sentence cannot be read as damning
 (*He rarely appeared on the class…*).
@@ -260,14 +280,26 @@ awards · optional multimedia CD (include a clip of your English presentation).
 
 **Translation** — provide your own whenever possible; notarised translation is usually not
 required for course certificates, employer testimonials, professional memberships and awards.
-The course provides a phrase bank for Vietnamese credentials: certificate-of-merit wordings,
-*tốt nghiệp loại giỏi* → *graduated with honors | with high distinction*, *thủ khoa/á khoa* →
-*Valedictorian/Salutatorian*, *học sinh giỏi quốc gia* → *a National Merit student*, *trường
-chuyên* → *high school for gifted students*, *chương trình tiên tiến* → use the official name +
-an explanatory note (*an equivalent of Honors programs in the U.S.*), *lớp trưởng* → *class
-monitor*, *bí thư đoàn* → *class liaison officer*, prize names, *giải khuyến khích* →
-*consolation prize*, *giải nhì/ba* → *first/second runner-up*. Avoid the word *Olympic* for
-national subject contests. See the S38 deck.
+The course provides a phrase bank for Vietnamese credentials (certificate-of-merit wordings,
+prize names, positions). Keep every rendering accurate:
+- degree classifications → the wording of the university’s official English transcript
+  (commonly *Excellent · Very good · Good · Average*) plus the grading explanation; a higher label
+  misstates the record;
+- *thủ khoa/á khoa* (graduation) → *Valedictorian/Salutatorian*; *thủ khoa đầu vào* → *highest
+  entrance examination score*;
+- *học sinh giỏi quốc gia* → *[First] Prize, National Excellent Students Contest in [subject]*
+  (*National Merit* names a US programme);
+- *trường chuyên* → *high school for gifted students*; *chương trình tiên tiến* → the official name
+  plus a one-line description of what it is (selective intake, a partner university’s curriculum,
+  English-medium teaching); call it *an equivalent of Honors programs in the U.S.* only where
+  those features match;
+- *lớp trưởng* → *class monitor*; *bí thư chi đoàn* → *Secretary of the Youth Union branch* (the
+  organisation’s official English name is the Ho Chi Minh Communist Youth Union; a vaguer title
+  such as *class liaison officer* misdescribes the role);
+- *giải khuyến khích* → *consolation prize*; *giải nhì/ba* → *first/second runner-up*; avoid the
+  word *Olympic* for national subject contests.
+
+See the S38 deck.
 
 **Financial statement** — list requirements and costs (tuition, fees, books, health insurance,
 accommodation and board, personal expenses) and available sources (personal savings, family or
@@ -307,7 +339,7 @@ research opportunities and guidance, funding · specific, relevant, appropriate 
 point at a time, each answerable in reasonable time · no personal questions · nothing readily
 available online (consult the Graduate Student Handbook first) · clarification requests are
 fine · mind timing and frequency (holidays, start and end of semester) · keep them posted on
-your application progress.
+your application progress. Address professors by title and surname until they invite first names.
 
 ---
 
@@ -345,6 +377,10 @@ show progress, demonstrate how you overcame it, put things in perspective **with
 others**. *Handle-a-hypothetical-problem* → treat as a **mini-proposal**: problem identification
 → possible challenges → solutions → action plan.
 
+**Rehearse aloud** with several different people in the final week; each run makes the answers
+more fluent and better ordered. Reread your own package first: months may have passed since you
+sent it.
+
 **Post-interview:** ask for business cards and send a thank-you note — gratitude for their time,
 any additional information or follow-up, and (if unsuccessful) a request for constructive
 feedback.
@@ -357,6 +393,10 @@ Question bank by topic: `S33`/`S38 materials/Interview — Sample questions.pdf`
 
 - **Never fabricate** achievements, experiences, publications, scores, references or numbers.
   When a section needs content the user has not supplied, ask — do not invent a plausible story.
+- **Never help misrepresent.** No letter signed by someone whose stated role is untrue, no story
+  or analysis invented because nobody can check, no translation that upgrades a grade or renames
+  a role. If a referee asks the applicant to draft, help build a fact sheet and one draft per
+  referee that the referee revises into their own words (`14` §12, §15).
 - The user's material is the content; the method supplies the structure and the prose.
 - Apply the full annwuyn language pipeline to every draft, and economy of language especially —
   word limits are hard.

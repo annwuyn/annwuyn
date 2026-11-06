@@ -52,6 +52,15 @@ library, in academic work.
 | IELTS Band-9 sample paragraphs | Simon Corcoran |
 | *Despite increasing prosperity, Vietnam's appetites remain unique* (the response-writing target) | Joel Brinkley, *Chicago Tribune* |
 
+## Recordings and later sources
+
+| Item | Origin | Used in |
+|---|---|---|
+| 38 lecture recordings and 7 recorded live application reviews, transcribed November 2026 | source curriculum (the instructor’s lectures and review sessions); transcripts kept privately with the course files | `14-lecture-notes.md` |
+| Research articles, style manuals and test-maker pages, 1958 to 2026 | listed with DOIs or URLs in the reference sections of `13-research-update.md` and `14-lecture-notes.md` | `13`, `14`, and the notes they add to `06`, `07`, `09`, `10`, `11` |
+
+The live-review examples in `14` are anonymised: applicants appear only by programme and field.
+
 ## Note on the exemplar texts
 
 The illustrative sentences throughout these references are drawn from source-curriculum

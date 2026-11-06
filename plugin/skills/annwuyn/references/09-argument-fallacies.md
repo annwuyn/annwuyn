@@ -27,6 +27,12 @@ Worked example — *Harry doesn't have FOUR brothers*:
 **QUALIFIER** narrows the scope of the argument; **REBUTTAL** supplies additional
 evidence/rationale. Don't conflate them.
 
+Rebut when evidence can refute an objection (a caption shows the whole family was there); qualify
+when it cannot (a brother born after the photo). In Toulmin’s own layout the qualifier marks the
+force of the step from data to claim (*presumably*) and the rebuttal states the conditions of
+exception; the course’s rebuttal (counterargument plus answer) follows composition textbooks.
+Say which sense you mean. More worked analyses: `14-lecture-notes.md` §14.
+
 ## Warrants
 
 - normally **implicit**
@@ -148,6 +154,14 @@ wrong way, the reader follows them and gets lost.
 That third step is what separates a fallacy-spotting exercise from an argument. Always ask:
 *what kind of evidence would be needed to improve or invalidate this?*
 
+## Evaluating a given argument
+
+Split the argument into sub-arguments and take the two you can attack most fully. For each: the
+data, the claim drawn, the warrant, why it fails, and the evidence that would repair or collapse
+it. Explain the faulty reasoning in plain words; labels such as *composition* vary between
+sources and prove nothing on their own. In critical-reasoning items, name the main fallacy and
+the task (strengthen or weaken) before reading the options.
+
 ## Test focus
 
 - **TOEFL/IELTS** → focus more on **HOW**: writing mechanics, format, knowledge of writing
@@ -159,3 +173,11 @@ That third step is what separates a fallacy-spotting exercise from an argument. 
   Claim–ground–warrant–rebuttal–qualifier; engagement resources; fallacies; relevancy and
   manner of exemplification.
 - Both require academic vocabulary, a fairly formal style, and **linear development**.
+
+Formats changed after the course was recorded (checked November 2026; details and sources in
+`13-research-update.md` §10). GRE writing is one *Analyze an Issue* task (30 minutes) since
+September 2023; the *Analyze an Argument* essay is gone, but its skills still serve GRE and GMAT
+critical-reasoning questions and every research argument. LSAT Argumentative Writing (since July
+2024) asks for an argument built from several evidence sources after 15 minutes of guided
+prewriting. The GMAT Focus Edition has no essay. TOEFL iBT Writing (since January 2026) is
+*Build a Sentence*, *Write an Email* and *Write for an Academic Discussion*, scored 1 to 6.

@@ -33,6 +33,27 @@ Always work in this order. Later stages assume earlier ones are settled.
 | 9 | **Argument & fallacies** | Claim / ground / warrant / rebuttal / qualifier — all present? | `references/09-argument-fallacies.md` |
 | 10 | **Style & vocabulary** | Academic register, political correctness | `references/10-style-vocabulary.md` |
 
+**Two companion files cover every stage.** `references/14-lecture-notes.md` distils the 38
+lecture recordings and the 7 recorded live application reviews: the reasoning behind the rules,
+worked answers, diagnostic tests, and in §15 the points where this library departs from what was
+said in class. `references/13-research-update.md` adds current research, style manuals and test
+formats. Open only the section you need:
+
+| Stage | `14` section | `13` section |
+|---|---|---|
+| course stance, workflow | §1 | §0 |
+| 1 Linearity | §2 | §1 |
+| 2 TP | §3, §4 | §1 |
+| 3 Cohesion | §5, §7 | §2 |
+| 4 Dependency | §6 | §3 |
+| 5 Linking facilitation | §8 | §1 |
+| 6 Engagement · 9 Argument | §14 | §4 |
+| 7 Modality & qualification | §10, §11 | §5 |
+| 8 Economy | §9 | §6 |
+| 10 Style & vocabulary | §11 | §7 |
+| applications | §12 | §10 |
+| research proposals and papers | §13 | §8, §9 |
+
 **The phrase layer** — `references/12-phrasebank.md` + `scripts/phrasebank.py`. Morley's
 *Academic Phrasebank* is not a stage but a realisation resource: it supplies the wording for a
 move once stages 1–2 have fixed the move, is fitted under the rules of 3, 6, 7 and 10, and is
@@ -40,7 +61,7 @@ paid for at 8. **Move → function → frame → fit → trim.** Modes: guided (
 (*only* Phrasebank structures), audit, teach. The frames are read from the user's own PDF at
 runtime; never quote a frame or cite a page you have not read from it.
 
-Plus `references/11-vn-transfer.md` — the 25-item Vietnamese L1 transfer checklist. **Run this
+Plus `references/11-vn-transfer.md`, the 33-item Vietnamese L1 transfer checklist. **Run this
 whenever the writer is a Vietnamese L1 speaker**, which is the default assumption here.
 `references/source-index.md` maps every reference file back to its source session, and
 `references/SOURCES.md` credits the frameworks and tables used.
@@ -107,12 +128,14 @@ base chain is right, not instead of it. And expect **U-shaped learning**: writin
 worse before it gets better, as attention shifts from surface accuracy to structure. Say so
 when a user is discouraged by their own drafts.
 
-## Coverage limit
+## Coverage
 
-These references are built from the course's 132 PDFs and one DOCX. The **65 lecture recordings
-(~9.5 GB)** are not transcribed, and the slides are deliberately sparse — many carry only a
-heading plus *"→ watch sample clips"* or *"FOOD FOR THOUGHT"*. Where a point here is thinner
-than expected, the reasoning is probably in the audio. See `references/source-index.md`.
+These references are built from the course’s 132 PDFs, one DOCX, the 38 lecture recordings and
+the 7 recorded live application reviews. The recordings were transcribed in November 2026 and
+read in full; the transcripts sit in each session folder (`… Lecture transcript.md` and `.srt`),
+and `references/14-lecture-notes.md` distils them. Where the course and a later source
+disagree, the files say so and give the source (`13`, and `14` §15).
 
-`references/12-phrasebank.md` is the one file not drawn from the curriculum; it indexes an
-external resource and defers to the curriculum wherever the two disagree.
+`references/12-phrasebank.md` and `references/13-research-update.md` sit outside the curriculum;
+they keep the curriculum’s wording wherever it holds and name their source wherever they refine
+it.
