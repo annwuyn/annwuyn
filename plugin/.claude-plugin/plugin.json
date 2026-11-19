@@ -1,7 +1,7 @@
 {
   "name": "annwuyn",
-  "version": "1.2.0",
-  "description": "annwuyn — contrastive-rhetoric academic writing method. Linearity, thematic progression, cohesion, dependency, linking scope/distance/explicitness, engagement/appraisal, modality, qualification, economy of language, fallacies. Lecture notes from the course's 38 transcribed sessions and 7 live application reviews, plus a research update (style manuals, reporting guidelines, current test formats). Academic Phrasebank phrase layer (bring your own copy). Includes scholarship-application and research-paper modes.",
+  "version": "1.3.0",
+  "description": "annwuyn — contrastive-rhetoric academic writing method. Linearity, thematic progression, cohesion, dependency, linking scope/distance/explicitness, engagement/appraisal, modality, qualification, economy of language, fallacies. Lecture notes from the course's 38 transcribed sessions and 7 live application reviews, plus a research update (style manuals, reporting guidelines, current test formats). Academic Phrasebank phrase layer (bring your own copy). Includes scholarship-application, research-paper and APA psychology (Introduction openings, format audit, posters, talks, ethics proposals) modes.",
   "author": {
     "name": "annwuyn"
   },
@@ -13,6 +13,10 @@
     "scholarship",
     "sop",
     "research-paper",
-    "academic-phrasebank"
+    "academic-phrasebank",
+    "apa-style",
+    "psychology",
+    "introduction",
+    "poster"
   ]
 }

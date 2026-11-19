@@ -11,6 +11,14 @@ between Vietnamese-English and native academic English.
 | `annwuyn-review` | diagnose and revise a draft, stage by stage |
 | `annwuyn-scholarship` | SOP · PS · CV · LOR · application package · professor contact · interview |
 | `annwuyn-paper` | research paper · proposal · abstract · literature review |
+| `annwuyn-psywrite` | APA-style psychology papers: Introduction (13 opening types, CARS moves, problem/gap/hook) · abstract and APA 7 format · common-error audit · posters · talks · ethics proposals |
+
+## What’s new in 1.3.0
+
+- New skill `annwuyn-psywrite`, built on Beins & Beins, *Effective Writing in Psychology*
+  (3rd ed., 2021, pp. 196–300) and a reading list on introductions (Swales; Feak & Swales; Bem;
+  Kendall et al.; Grant & Pollock; Lingard; Heard), APA 7 and JARS, posters, talks and ethics.
+  The book is summarised in our own words with page references; it is not reproduced.
 
 ## What’s new in 1.2.0
 
