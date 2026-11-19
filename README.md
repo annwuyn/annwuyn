@@ -11,7 +11,14 @@ between Vietnamese-English and native academic English.
 | `annwuyn-review` | diagnose and revise a draft, stage by stage |
 | `annwuyn-scholarship` | SOP · PS · CV · LOR · application package · professor contact · interview |
 | `annwuyn-paper` | research paper · proposal · abstract · literature review |
-| `annwuyn-psywrite` | APA-style psychology papers: Introduction (13 opening types, CARS moves, problem/gap/hook) · abstract and APA 7 format · common-error audit · posters · talks · ethics proposals |
+| `annwuyn-psywrite` | APA-style psychology papers, whole or in parts: complete-manuscript workflow · Introduction (13 opening types, CARS moves, problem/gap/hook, hypotheses from idea chains) · Method · Results and statistics · Discussion · citations and references · abstract and APA 7 format · common-error audit · term papers · posters · talks · ethics proposals |
+
+## What’s new in 1.4.0
+
+- `annwuyn-psywrite` now covers all of Beins & Beins (pp. 1–296): a complete-manuscript workflow
+  (`00`), the book’s own Introduction chapter and its six opening approaches (`01`), Method (`07`),
+  Results and statistics (`08`), Discussion (`09`), citations and references (`10`), topic, sources,
+  search, reading and plagiarism (`11`), and organising, argument, revising and style (`12`).
 
 ## What’s new in 1.3.0
 

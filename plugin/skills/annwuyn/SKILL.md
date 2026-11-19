@@ -73,7 +73,7 @@ whenever the writer is a Vietnamese L1 speaker**, which is the default assumptio
 | a draft diagnosed and revised | `/annwuyn-review` |
 | SOP · PS · CV · LOR · application package · interview prep | `/annwuyn-scholarship` |
 | research paper · proposal · abstract · thesis section | `/annwuyn-paper` |
-| APA psychology paper: Introduction openings and moves · APA format check · poster · talk · ethics proposal | `/annwuyn-psywrite` |
+| APA psychology paper, whole or any section · APA citations and format check · term paper · poster · talk · ethics proposal | `/annwuyn-psywrite` |
 | to understand or drill one concept | read the relevant reference file and teach from it |
 | a linking word checked | `references/linking-items.md` — always look it up, never guess |
 | wording for a move · a text built only from Academic Phrasebank frames · a check that it is | `references/12-phrasebank.md` — pick the mode there, then `scripts/phrasebank.py` (`show` / `search` / `audit`) |

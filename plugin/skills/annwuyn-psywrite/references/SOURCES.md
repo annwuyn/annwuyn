@@ -5,17 +5,17 @@
 Beins, B. C., & Beins, A. M. (2021). *Effective writing in psychology: Papers, posters, and
 presentations* (3rd ed.). Wiley.
 
-**In this library (photographed pp. 196–300):** ch. 15 “Final Touches: The Abstract and
-Formatting Details” (pp. 196–219, with gaps); Part III “Communicating Beyond the Research Paper”:
-ch. 16 posters, ch. 17 oral presentations, ch. 18 presenting work on the internet (pp. 247–254,
-a web-publishing walkthrough; not summarised because the tools have changed), ch. 19 ethics
-committees; Appendix A (annotated manuscript with common errors, pp. 265–272); Appendix B
-(corrected manuscript, pp. 273–); the reference list and author index.
+**Coverage:** the whole book, from 154 photographs of the user’s copy (pp. 1–296).
 
-**Not yet in this library:** pp. 1–195, including the book’s chapters on the Introduction,
-Method, Results and Discussion, style and grammar, and references. Pages 220–223, 232–237,
-240–241 and 264 are also missing. When they are photographed, add a section per chapter to the
-matching reference file with page numbers.
+| Part | Chapters | Reference file |
+|---|---|---|
+| I. Organizing and developing your ideas and writing | 1 Writing professionally · 2 Formulating your ideas · 3 Assessing sources · 4 Literature search · 5 Reading and summarising articles · 6 Organising a paper · 7 Elements of style · 8 Communicating statistics | `11`, `12`, `08` |
+| II. Preparing APA-style papers | 9 Thesis or term paper · 10 Introduction · 11 Method · 12 Results · 13 Discussion · 14 Citations and references · 15 Abstract and formatting | `00`, `01`, `07`, `08`, `09`, `10`, `02` |
+| III. Communicating beyond the research paper | 16 Posters · 17 Oral presentations · 18 Presenting work on the internet (not summarised; the tools have changed) · 19 Ethics committees | `04`, `05`, `06` |
+| Appendices | A Manuscript with common errors · B Corrected manuscript | `03` |
+
+A few pages were photographed at an angle or rotated and carry no readable page number; page
+references for chapters 2–7 are therefore given at chapter level.
 
 ## Introductions: genre research
 

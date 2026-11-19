@@ -1,6 +1,6 @@
 # 05 — Oral presentations
 
-Source: Beins & Beins (2021), ch. 17, pp. 237–246 (pp. 240–241 not yet photographed), with
+Source: Beins & Beins (2021), ch. 17, pp. 237–246, with
 Alley (2013) on slide design.
 
 ## Spoken English is a different register (pp. 237–238)

@@ -1,6 +1,6 @@
 # 06 — Ethics committee (IRB) proposals
 
-Source: Beins & Beins (2021), ch. 19, pp. 255–263 (pp. 264 onward not yet photographed). The
+Source: Beins & Beins (2021), ch. 19, pp. 255–263. The
 chapter uses a proposal approved at Ithaca College for a humour study (Wimer & Beins, 2008) as
 its running example.
 

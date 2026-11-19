@@ -1,6 +1,6 @@
 # 04 — Conference posters
 
-Source: Beins & Beins (2021), ch. 16 (pages before p. 224 not yet photographed), with later poster design work from the
+Source: Beins & Beins (2021), ch. 16, pp. 221–235, with later poster design work from the
 reading list (Faulkes, 2021; Morrison, 2019).
 
 ## How a poster differs from a paper (p. 224)
